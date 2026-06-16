@@ -60,7 +60,7 @@ Immersive VR environment built using Unity and XR Toolkit.
 ## 🌐 Connect With Me
 
 🔗 LinkedIn:  
-https://www.linkedin.com/in/sp-sanjith-9b569a264
+www.linkedin.com/in/sanjithsp
 
 ---
 
