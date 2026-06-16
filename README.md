@@ -34,7 +34,7 @@
 `MySQL`
 
 ### ☁️ Tools & Platforms
-`Git` `Linux` `VS Code` `Jupyter Notebook` `AWS`
+`Linux` `VS Code` `Jupyter Notebook`
 
 ### 🎮 Others
 `Unity 3D` `Virtual Reality`
@@ -64,6 +64,4 @@ https://www.linkedin.com/in/sp-sanjith-9b569a264
 
 ---
 
-<p align="center">
-✨ <i>"Learning never stops when curiosity leads the way."</i> ✨
-</p>
+
