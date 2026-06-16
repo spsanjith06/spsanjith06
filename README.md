@@ -1,64 +1,69 @@
-# Hi there, I'm Sanjith SP 👋
+<h1 align="center">Hi 👋, I'm Sanjith SP</h1>
+<h3 align="center">Computer Science Student | Building, Learning & Exploring 🚀</h3>
 
-🎓 B.E. Computer Science and Engineering student at Sathyabama Institute of Science and Technology.
-
-💻 Passionate about building practical solutions through software development and exploring emerging technologies. My areas of interest include Machine Learning, Web Development, Virtual Reality, and Cloud Computing.
-
-🚀 I enjoy working on real-world projects, continuously learning new technologies, and improving my problem-solving skills.
-
-## 🛠️ Tech Stack
-
-### Languages
-- Python
-- Java
-- C
-
-### Web Development
-- Flask
-- Django
-- HTML
-- CSS
-- JavaScript
-- React
-
-### Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-
-### Databases
-- MySQL
-
-### Tools & Platforms
-- Git
-- Linux
-- VS Code
-- Jupyter Notebook
-- AWS
-
-### Others
-- Unity 3D
-- Virtual Reality (VR)
-
-## 📌 Featured Projects
-
-### 🚗 Used Car Price Prediction
-Machine learning application developed using Django to predict used car prices based on vehicle attributes.
-
-### 💧 Water Quality Prediction Using Machine Learning
-Implemented and compared Logistic Regression, Decision Tree, and Random Forest models to predict water potability.
-
-### 🔧 RevMate Garage – Online Car Service Booking System
-Flask-based web application for managing car service bookings and appointments.
-
-### 🌳 Virtual Park in VR
-Developed an immersive virtual reality park using Unity 3D with XR-based interactions and Mixamo animations.
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/sp-sanjith-9b569a264
+<p align="center">
+  🎓 B.E. CSE @ Sathyabama Institute of Science and Technology <br>
+  💡 Passionate about solving real-world problems through technology <br>
+  🌱 Currently exploring Machine Learning, Web Development, VR, and Cloud Computing
+</p>
 
 ---
 
-⭐ Always learning, building, and improving.
+## 🚀 About Me
+
+- 🔭 Working on projects that combine creativity and technology
+- 🤖 Interested in Machine Learning and Data-Driven Solutions
+- 🌐 Exploring Web Development and Cloud Technologies
+- 🎮 Experienced in developing immersive Virtual Reality experiences
+- 📚 Always curious to learn, build, and improve
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Python` `Java` `C`
+
+### 🌐 Web Development
+`Flask` `Django` `HTML` `CSS` `JavaScript` `React`
+
+### 🤖 Machine Learning
+`Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
+### 🗄️ Databases
+`MySQL`
+
+### ☁️ Tools & Platforms
+`Git` `Linux` `VS Code` `Jupyter Notebook` `AWS`
+
+### 🎮 Others
+`Unity 3D` `Virtual Reality`
+
+---
+
+## 📌 Featured Projects
+
+🚗 **Used Car Price Prediction**  
+Machine learning application for predicting used car prices using Django.
+
+💧 **Water Quality Prediction**  
+Compared multiple ML algorithms to classify water potability.
+
+🔧 **RevMate Garage**  
+Flask-based car service booking and appointment management system.
+
+🌳 **Virtual Park in VR**  
+Immersive VR environment built using Unity and XR Toolkit.
+
+---
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/sp-sanjith-9b569a264
+
+---
+
+<p align="center">
+✨ <i>"Learning never stops when curiosity leads the way."</i> ✨
+</p>
