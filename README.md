@@ -1,12 +1,64 @@
+# Hi there, I'm Sanjith SP 👋
 
-# About Me:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=spsanjith0613-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=spsanjith0613-afk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=spsanjith0613-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 B.E. Computer Science and Engineering student at Sathyabama Institute of Science and Technology.
+
+💻 Passionate about building practical solutions through software development and exploring emerging technologies. My areas of interest include Machine Learning, Web Development, Virtual Reality, and Cloud Computing.
+
+🚀 I enjoy working on real-world projects, continuously learning new technologies, and improving my problem-solving skills.
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- C
+
+### Web Development
+- Flask
+- Django
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Machine Learning
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+
+### Databases
+- MySQL
+
+### Tools & Platforms
+- Git
+- Linux
+- VS Code
+- Jupyter Notebook
+- AWS
+
+### Others
+- Unity 3D
+- Virtual Reality (VR)
+
+## 📌 Featured Projects
+
+### 🚗 Used Car Price Prediction
+Machine learning application developed using Django to predict used car prices based on vehicle attributes.
+
+### 💧 Water Quality Prediction Using Machine Learning
+Implemented and compared Logistic Regression, Decision Tree, and Random Forest models to predict water potability.
+
+### 🔧 RevMate Garage – Online Car Service Booking System
+Flask-based web application for managing car service bookings and appointments.
+
+### 🌳 Virtual Park in VR
+Developed an immersive virtual reality park using Unity 3D with XR-based interactions and Mixamo animations.
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sp-sanjith-9b569a264
 
 ---
-[![](https://komarev.com/ghpvc/?username=spsanjith0613-afk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ Always learning, building, and improving.
